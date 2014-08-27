@@ -1,9 +1,0 @@
-{
-  "name": "googleapis",
-  "description": "Wrapper around npm package googleapis - Google APIs Client Library for Node.js",
-  "homepage": "https://github.com/google/google-api-nodejs-client",
-  "author": "Jaco Swarts <jaco@productive.me>",
-  "version": "1.0.10",
-  "git": "https://github.com/productiveme/meteor-googleapis.git",
-  "packages": {}
-}
